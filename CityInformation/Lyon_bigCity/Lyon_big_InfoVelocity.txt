@@ -1,0 +1,12 @@
+ Vel. line 1 : 37
+ Vel. line 2 : 40
+ Vel. line 3 : 41
+ Vel. line 4 : 18
+ Vel. line 5 : 16
+ Vel. line 6 : 42
+ Vel. line 7 : 30
+ Vel. line 8 : 26
+ Vel. line 9 : 32
+
+ MIN  Vel. line : 16
+ MAX  Vel. line : 42

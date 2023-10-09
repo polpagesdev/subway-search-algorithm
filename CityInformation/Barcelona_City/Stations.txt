@@ -1,0 +1,25 @@
+1	Sagrera	1	230	41
+2	Navas	1	205	66
+3	Clot	1	175	98
+4	Glories	1	133	136
+5	Marina	1	91	163
+6	Arc de Triomf	1	43	162
+7	Sagrera	2	230	41
+8	Camp de l'Arpa	2	159	41
+9	Hospital de Sant Pau	2	124	41
+10	Sagrada Familia	2	88	69
+11	La Pau	3	293	101
+12	El Maresme-Forum	3	260	195
+13	Selva de Mar	3	228	195
+14	Poblenou	3	192	195
+15	Llacuna	3	143	195
+16	Bogatell	3	111	194
+17	Ciutadella-Vila Olimpica	3	59	239
+18	La Pau	4	293	101
+19	St. Marti	4	249	101
+20	Bac de Roda	4	222	101
+21	Clot	4	175	98
+22	Encants	4	143	94
+23	Sagrada Familia	4	88	69
+24	Monumental	4	85	114
+25	Tetuan	4	44	139
